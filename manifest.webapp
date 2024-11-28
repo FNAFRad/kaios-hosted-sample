@@ -5,7 +5,7 @@
   "description": "A Open-Source Browser that cares about your privacy and you and not money",
   "icons": {
     "56": "/kaios-hosted-sample/images/Chocolate_Browser_56.png",
-    "112": "/kaios-hosted-sample/images/Chocolate_Browser_112.png",
+    "112": "/kaios-hosted-sample/images/Chocolate_Browser_112.png"
   },
   "developer": {
     "name": "Robert Nyman",
