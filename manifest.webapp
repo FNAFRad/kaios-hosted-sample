@@ -11,9 +11,6 @@
     "name": "FNAFRad Studios",
     "url": "https://fnafrad.github.io/Website-Project/"
   },
-  "installs_allowed_from": [
-    "*"
-  ],
   "default_locale": "en",
   "permissions": {
     "desktop-notification": {
