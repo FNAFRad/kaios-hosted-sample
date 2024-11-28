@@ -13,6 +13,9 @@
     "name": "FNAFRad Studios",
     "url": "https://fnafrad.github.io/Website-Project/"
   },
+  "categories": [
+    "utilities"
+  ],
   "locales": {
     "en-US": {
       "name": "Chocolate Browser",
