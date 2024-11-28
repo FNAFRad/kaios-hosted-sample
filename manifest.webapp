@@ -18,5 +18,6 @@
       "description": "A Open-Source Browser that cares about your privacy and you and not money"
     }
   },
+  "default_locale": "en-US"
   "cursor": true
 }
