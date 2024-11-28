@@ -1,5 +1,5 @@
 {
-  "version": "1",
+  "version": "1.0.0",
   "name": "KaiOS hosted starter",
   "launch_path": "/kaios-hosted-sample/index.html",
   "description": "KaiOS hosted app with example use cases to get started",
