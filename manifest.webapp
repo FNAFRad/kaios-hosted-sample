@@ -2,6 +2,7 @@
   "version": "1.0.0",
   "name": "Chocolate Browser",
   "launch_path": "/kaios-hosted-sample/index.html",
+  "type": "web",
   "description": "A Open-Source Browser that cares about your privacy and you and not money",
   "icons": {
     "56": "/kaios-hosted-sample/images/Chocolate_Browser_56.png",
